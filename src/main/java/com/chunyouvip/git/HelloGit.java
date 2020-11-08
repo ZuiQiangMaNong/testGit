@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("第二次提交之前再提交");
 		System.out.println("第三次提交之前再提交");
 		System.out.println("在线更新");
+		System.out.println("第四次提交之前再提交");
 	}
 
 }
